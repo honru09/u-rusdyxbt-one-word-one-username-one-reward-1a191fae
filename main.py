@@ -5,7 +5,7 @@ Writes the entrant's own make.fun username, one word, to
 ``entry.txt`` inside the output directory.
 
 The word is ``honn-ru-honru``: the entrant's genuine handle on
-make.fun, exactly as registered. One word, 14 characters.
+make.fun, exactly as registered. One word, 13 characters.
 
 Stdlib only. No network. Deterministic: the same bytes on every run.
 """
